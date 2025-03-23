@@ -37,7 +37,7 @@ JavaScript: Handling user interactions dynamically.
 
 Download or Clone the Repository
 
-git clone https://github.com/your-username/note-taking-app.git
+git clone https://github.com/your-username/note-taking-app.git](https://github.com/vivekChaudhary1708/Basic-Note-Taking-app.git
 
 Open the Project
 
